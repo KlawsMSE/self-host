@@ -1,3 +1,3 @@
-headscale.cloud.easyselfhost.com {
+tailscale.elasticloud.dev {
     reverse_proxy headscale:8080
 }
